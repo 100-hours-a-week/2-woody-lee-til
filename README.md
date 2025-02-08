@@ -4,7 +4,7 @@
 
 ### [2월 1째주, 2주차] : Numpy, Pandas 활용
 
-25.02.08 과제 제출 완료([상세 내역 링크](https://colab.research.google.com/drive/1JmPMYbT5zfyvt4jkf_bvic1iVQs-GOQ0#scrollTo=PP1UYnGLFJq0))
+25.02.08 과제 제출 완료([2주차 과제(코랩)](https://colab.research.google.com/drive/1JmPMYbT5zfyvt4jkf_bvic1iVQs-GOQ0?usp=sharing))
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
